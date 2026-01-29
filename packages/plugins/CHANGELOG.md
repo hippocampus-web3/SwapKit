@@ -1,5 +1,13 @@
 # @swapkit/plugins
 
+## 4.2.11
+
+### Patch Changes
+
+- Updated dependencies [[`6e4222d`](https://github.com/swapkit/SwapKit/commit/6e4222d28644f4a11617a8ab14e59ef13cf66878)]:
+  - @swapkit/helpers@4.5.10
+  - @swapkit/toolboxes@4.3.11
+
 ## 4.2.10
 
 ### Patch Changes

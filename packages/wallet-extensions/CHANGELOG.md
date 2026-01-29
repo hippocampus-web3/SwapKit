@@ -1,5 +1,18 @@
 # @swapkit/wallet-extensions
 
+## 4.1.12
+
+### Patch Changes
+
+- [`6e4222d`](https://github.com/swapkit/SwapKit/commit/6e4222d28644f4a11617a8ab14e59ef13cf66878) Thanks [@hippocampus-web3](https://github.com/hippocampus-web3)! - Adds support for TRON in Vultisig and fixes Cosmos
+
+- [#1621](https://github.com/swapkit/SwapKit/pull/1621) [`d6b21ba`](https://github.com/swapkit/SwapKit/commit/d6b21ba91c5d1550303d9a8e4b11ade035610b53) Thanks [@0xepicode](https://github.com/0xepicode)! - Fix connecting bitget and okx wallets to monad
+
+- Updated dependencies [[`6e4222d`](https://github.com/swapkit/SwapKit/commit/6e4222d28644f4a11617a8ab14e59ef13cf66878)]:
+  - @swapkit/helpers@4.5.10
+  - @swapkit/toolboxes@4.3.11
+  - @swapkit/wallet-core@4.0.54
+
 ## 4.1.11
 
 ### Patch Changes

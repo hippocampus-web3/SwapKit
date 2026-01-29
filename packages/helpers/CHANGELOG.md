@@ -1,5 +1,14 @@
 # @swapkit/helpers
 
+## 4.5.10
+
+### Patch Changes
+
+- [`6e4222d`](https://github.com/swapkit/SwapKit/commit/6e4222d28644f4a11617a8ab14e59ef13cf66878) Thanks [@hippocampus-web3](https://github.com/hippocampus-web3)! - Adds support for TRON in Vultisig and fixes Cosmos
+
+- Updated dependencies []:
+  - @swapkit/tokens@4.1.2
+
 ## 4.5.9
 
 ### Patch Changes
